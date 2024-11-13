@@ -15,6 +15,7 @@ whoAmI := map[string]interface{}{
 <h3> 👨🏻‍💻  Visitors </h3>
   <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg" alt="Visitor Count" />
 </div>
+<hr />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashkansafavi" alt="ashkansafavi" /></a> </p>
 
