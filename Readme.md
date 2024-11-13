@@ -13,8 +13,8 @@ whoAmI := map[string]interface{}{
 
 ```
 
-<h1 align="center">
-## 👨🏻‍💻 Visitors
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-</h1>
+<h2 align="center">
+ 👨🏻‍💻 Visitors
+</h2>
 
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
