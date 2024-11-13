@@ -17,5 +17,5 @@ whoAmI := map[string]interface{}{
  👨🏻‍💻 Visitors
 </h2>
 <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+{![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)}
 </div>
