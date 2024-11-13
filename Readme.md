@@ -12,7 +12,7 @@ whoAmI := map[string]interface{}{
 }
 ```
 <div align="center">
-<h3>👨🏻‍💻  Visitors </h3>
+## 👨🏻‍💻  Visitors 
   <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg" alt="Visitor Count" />
 </div>
 
