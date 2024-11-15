@@ -17,20 +17,12 @@ whoAmI := map[string]interface{}{
 </div>
 <hr />
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; text-align: center; padding: 10px;">
-    <strong>Section 1</strong>
-    <p>Content 1</p>
-  </div>
-  <div style="flex: 1; text-align: center; padding: 10px;">
-    <strong>Section 2</strong>
-    <p>Content 2</p>
-  </div>
-  <div style="flex: 1; text-align: center; padding: 10px;">
-    <strong>Section 3</strong>
-    <p>Content 3</p>
-  </div>
-</div>
+
+|  <h3> 👨🏻‍💻 Visitors </h3>|  <h3> 👨🏻‍💻 Visitors </h3> |  <h3> 👨🏻‍💻 Visitors </h3> |
+|-----------|-----------|-----------|
+| Content 1 | Content 2 | Content 3 |
+
+
 <div>
 
 <h3 align="left">Front End:</h3>
