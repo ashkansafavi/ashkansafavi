@@ -18,8 +18,8 @@ whoAmI := map[string]interface{}{
 <hr />
 
 
-<div style="display: flex; flex-direction:row">
-  <div style="flex: 0.3; text-align: center; padding: 10px;">
+<div style="display: flex; flex-direction:row;">
+  <div style="display: flex; flex-direction:row;flex: 0.3; text-align: center; padding: 10px;">
     <strong>Section 1</strong>
     <p>Content 1</p>
   </div>
