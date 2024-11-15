@@ -17,7 +17,7 @@ whoAmI := map[string]interface{}{
 </div>
 <hr />
 
-
+<div>
 
 <h3 align="left">Front End:</h3>
 <p align="left">
@@ -131,9 +131,9 @@ whoAmI := map[string]interface{}{
 </p>
 <h3 align="center">Back End:</h3>
 <p align="center"></p>
-<h3 align="right">Back End:</h3>
+<h3 align="right">Devops:</h3>
 <p align="right"></p>
-
+</div>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ashkansafavi&show_icons=true&locale=en&layout=compact"
