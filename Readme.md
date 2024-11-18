@@ -38,27 +38,61 @@ whoAmI := map[string]interface{}{
   <tr>
    <td valign="top">
     <h3 align="left">Back End:</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,graphql&perline=3" height="120p" alt="My Skills">
-</a>
+      <img src="https://skillicons.dev/icons?i=go" height="50" alt="golang logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+    <br />
+      <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
    </td>
    <td valign="top">
     <h3 align="left">Front End:</h3>
-     <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,bootstrap&perline=3" height="120" alt="My Skills">
-</a>
+      <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+    <br />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+    <br />
+      <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
    </td>
    <td valign="top">
     <h3 align="left">Devops:</h3>
-     <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,firebase,kubernetes,nginx,flutter&perline=3" height="120" alt="My Skills">
-</a>
+    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+    <br />
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
+      <img width="5" />
    </td>
    <td valign="top">
     <h3>DBMS : </h3>
-     <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kafka,mysql,postgres,sqlite,redis,flutter&perline=3" height="120" alt="My Skills">
-</a>
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+    <br />
+      <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="kafka logo"  />
+      <img width="5" />
+      <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
+      <img width="5" />
    </td>
   </tr>
  </table>
