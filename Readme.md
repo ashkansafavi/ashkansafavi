@@ -44,8 +44,8 @@
       <img width="5" />
       <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
     <br />
-      <img width="5" />
       <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="solidity logo"  />
+      <img width="5" />
    </td>
    <td valign="top">
     <h3 align="left">Front End:</h3>
