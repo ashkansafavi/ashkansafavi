@@ -42,13 +42,7 @@
       <img width="5" />
       <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
       <img width="5" />
-      <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
     <br />
-      <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-      <img width="5" />
-      <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-      <img width="5" />
-      <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
    </td>
    <td valign="top">
     <h3 align="left">Front End:</h3>
